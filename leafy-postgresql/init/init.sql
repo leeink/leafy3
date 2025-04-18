@@ -76,6 +76,7 @@ INSERT INTO users (name, email, password, gender, birth_date) VALUES
 ('Tom', 'tom012@qmail.com', '$2a$10$ke3IM6noeWfQtX6POjZHl.49gSolYbqfrSTIn8sOQubdwjP2IT94q', 'M', '1987-08-03'),
 ('Sarah', 'sarah345@qmail.com', '$2a$10$ke3IM6noeWfQtX6POjZHl.49gSolYbqfrSTIn8sOQubdwjP2IT94q', 'F', '1984-03-09');
 ('SarahX', 'sarah159@qmail.com', '$2a$10$ke3IM6nhtkiuWtX6POjZHl.49gSolYbqfrSTIn8sOQubdwjP2IT94q', 'F', '1999-03-09');
+('JacksonX', 'jackson610@qmail.com', '$2a$10$ke3GrhjQWfQtX6POjZHl.49gSolYbqfrSTIn8sOQubdwjP2IT94q', 'M', '1901-02-18'),
 
 -- Plants 테이블에 데이터 삽입
 INSERT INTO plants (plant_name, plant_type, plant_desc, image_url, temperature_low, temperature_high, humidity_low, humidity_high, watering_interval)
